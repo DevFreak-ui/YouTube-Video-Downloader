@@ -50,3 +50,7 @@ def download(request):
     res = request.GET['res']
     st = YouTube(url).streams.filter(resolution=res).first()
     return st.download()
+
+
+def documentation(request):
+    return HttpResponse('Under construction')
