@@ -29,13 +29,14 @@ $(document).ready(function(){
 		});
 	});
 
+	$('#link').focus();
 
 
 	// $('#link').keyup(function(){
 	// 	var value = $('#link').val();
 	// 	if (value.length > 0){
 	// 		$.ajax({
-	// 			type: "GET",
+	// 			type: "POST",
 	// 			url: "watch",
 	// 			data: {link: value},
 

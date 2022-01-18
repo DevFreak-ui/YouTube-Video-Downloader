@@ -58,10 +58,11 @@
           and other formats for free
         </p>
         <div class="field mt-5 mb-1 mx-auto shadow-sm">
-          <form class="" action="watch" method="GET">
+          <form class="" action="{% url 'convert' %}" method="POST">
+            {% csrf_token %}
             <i class="bi bi-link-45deg"></i>
             <span>|</span>
-            <input id="link" type="text" name="url" value="" placeholder="Enter the url">
+            <input id="link" type="text" name="url" value="" placeholder="Enter the url" autofocus>
             <a href="watch"><button id="send" type="submit">Convert</button></a>
           </form>
         </div>
