@@ -217,3 +217,13 @@ small{
 	opacity: .5;
 	text-decoration: none;
 }
+
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px
+}
+
+::-webkit-scrollbar-thumb {
+    cursor: pointer;
+    background: #927e52
+}

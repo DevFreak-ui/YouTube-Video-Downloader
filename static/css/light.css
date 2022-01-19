@@ -130,10 +130,6 @@ small{
 	color: #737373;
 }
 
-
-
-
-
 .video-content .image{
 	max-width: 70%;
 	text-align: right;
@@ -200,4 +196,14 @@ small{
 .footer li a{
 	color: #000000;
 	text-decoration: none;
+}
+
+::-webkit-scrollbar {
+    width: 5px;
+    height: 5px
+}
+
+::-webkit-scrollbar-thumb {
+    cursor: pointer;
+    background: #927e52
 }

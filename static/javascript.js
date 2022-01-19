@@ -11,34 +11,44 @@ $(document).ready(function(){
 	  }
 	});
 
+	$('#send').on("click", function(){
+		$("#loader").show();
+	})
 
-	$('.dstream').click(function(){
-		var url = $(this).attr('name')
-		var res = $(this).attr('data-resolution')
-		$.ajax({
-			type: 'GET',
-			url: 'download',
-			data: {'url': url, 'res': res},
+	// $('.dstream').click(function(){
+	// 	var url = $(this).attr('name')
+	// 	var res = $(this).attr('data-resolution')
+	// 	$.ajax({
+	// 		type: 'GET',
+	// 		url: 'download',
+	// 		data: {'url': url, 'res': res},
 
-			success: function(data){
-				alert('Video downloading...');
-			},
-			error: function(data){
-				alert('Something went wrong');
-			},
-		});
-	});
+	// 		success: function(data){
+	// 			alert('Video downloading...');
+	// 		},
+	// 		error: function(data){
+	// 			alert('Something went wrong');
+	// 		},
+	// 	});
+	// });
 
 	$('#link').focus();
 
 
 	// $('#link').keyup(function(){
 	// 	var value = $('#link').val();
+	// 	var token = {{ token }},
+	// 	$("#loader").css('display', 'block');
 	// 	if (value.length > 0){
 	// 		$.ajax({
 	// 			type: "POST",
+	// 			header: { 'X-csrfToken': token },
 	// 			url: "watch",
-	// 			data: {link: value},
+	// 			data: {link: value, csrfmiddlewaretoken: csrf},
+
+	// 			beforeSend: function(){
+	// 				$('#loader').show();
+	// 			},
 
 	// 			success: function(data){
 	// 				$('#dynamic').show();
