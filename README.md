@@ -2,7 +2,10 @@
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)][github]
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)][license]  
 
-[![Bumble Bee logo](https://github.com/DevFreak-ui/YouTube-Video-Downloader/blob/main/static/images/logo-circle.png)][project]  
+<p align="center">
+  <img src="https://github.com/DevFreak-ui/YouTube-Video-Downloader/blob/main/static/images/logo-circle.png">
+</p>
+  
 
 
 Bumble bee is a web app built on `django` to convert and download youtube videos.  
