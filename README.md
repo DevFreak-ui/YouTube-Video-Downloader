@@ -1,10 +1,12 @@
 # YouTebe video downloader
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)][github]
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)][license]
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)][license]  
+
+[![Bumble Bee logo](https://github.com/DevFreak-ui/YouTube-Video-Downloader/blob/main/assets/images/logo%20circle.png)][project]  
 
 
-Divi is a web app built on `django` to convert and download youtube videos.  
-With Divi, a user can download any youtube video in mp3 and mp4 formats for free
+Bumble bee is a web app built on `django` to convert and download youtube videos.  
+With bumble bee, a user can download any youtube video in mp3 and mp4 formats for free
   
 
 # Installation
@@ -84,11 +86,6 @@ All forms of contributions are welcome
 
 
 
-# Screenshots
-
-
-
-
 [pytube]: https://pytube.io/en/latest/user/quickstart.html
 [mail]: mailto:devfreak235@gmail.com
 [twitter]: https://www.twitter.com/@freakish_prince
@@ -96,3 +93,4 @@ All forms of contributions are welcome
 [github]: https://github.com/DevFreak-ui
 [dribbble]: https://dribbble.com/DevFreak1
 [license]: https://github.com/DevFreak-ui/YouTube-Video-Downloader/blob/main/LICENSE
+[project]: https://github.com/DevFreak-ui/YouTube-Video-Downloader
