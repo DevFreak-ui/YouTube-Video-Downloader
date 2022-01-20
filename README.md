@@ -1,5 +1,7 @@
 # YouTebe video downloader
-A web app built on `django` to convert and download youtube videos
+Divi is a web app built on `django` to convert and download youtube videos
+With Divi, a user can download any youtube video in mp3 and mp4 formats for free
+
 
 # Installation
 Clone YouTube Video Downloader from github
@@ -7,13 +9,14 @@ Clone YouTube Video Downloader from github
 git clone https://github.com/DevFreak-ui/YouTube-Video-Downloader.git
 ```
 
-This project requires `python`, `Django`, `Pytube` and many other dependancies 
+This project requires `python`, `Django`, `Pytube` and many other dependancies
 in order to function
 
 A  `requirement.txt` file is located in the parent directory. You can use this 
-file to to install all required dependancies just by running the following command.
+file to to install all required  
+dependancies just by running the following command.
 
-### how to install project requirements
+#### how to install project requirements ***
 1. Navigate to the parent directory or the root folder of your project
 2. Copy, paste and run the commad below
 
@@ -23,7 +26,7 @@ pip install -r requirements.txt
 This line of code goes to the root folder, grab a file named `requirement.txt`
 and install all listed dependancies in the file.
 
-### Start the server
+#### Start the server
 ```
 py manage.py runserver
 ```
@@ -60,10 +63,12 @@ You Can get in contact with me on any of the social media handles below
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-cc1bbd.svg)][mail]
 
-**Name**: Mireku Prince
+**Author Name**: Mireku Prince
 
-[![alt text](http://i.imgur.com/tXSoThF.png)][twitter]
-
+[![](http://i.imgur.com/P3YfQoD.png)][facebook]
+[![](http://i.imgur.com/tXSoThF.png)][twitter]
+[![](http://i.imgur.com/1AGmwO3.png)][dribbble]
+[![](http://i.imgur.com/tXSoThF.png)][github]
 
 # Contribution Invitation
 
@@ -74,3 +79,6 @@ You Can get in contact with me on any of the social media handles below
 [pytube]: https://pytube.io/en/latest/user/quickstart.html
 [mail]: mailto:devfreak235@gmail.com
 [twitter]: https://www.twitter.com/@freakish_prince
+[facebook]: https://web.facebook.com/devfreak/
+[github]: https://github.com/DevFreak-ui
+[dribbble]: https://dribbble.com/DevFreak1
