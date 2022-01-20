@@ -62,7 +62,7 @@ You Can get in contact with me on any of the social media handles below
 
 **Name**: Mireku Prince
 
-![twitter icon](https://github.com/DevFreak-ui/gitsocial/blob/master/assets/icons%20with%20padding/twitter.png)[twitter]
+[![alt text](http://i.imgur.com/tXSoThF.png)][twitter]
 
 
 # Contribution Invitation
