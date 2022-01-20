@@ -13,16 +13,17 @@ in order to function
 A  `requirement.txt` file is located in the parent directory. You can use this 
 file to to install all required dependancies just by running the following command.
 
-> how to install project requirements
+### how to install project requirements
 1. Navigate to the parent directory or the root folder of your project
 2. Copy, paste and run the commad below
-    ```python
-    pip install -r requirements.txt
-    ```
-    This line of code goes to the root folder, grab a file named `requirement.txt`
-    and install all listed dependancies in the file.
 
-Start the server
+```python
+pip install -r requirements.txt
+```
+This line of code goes to the root folder, grab a file named `requirement.txt`
+and install all listed dependancies in the file.
+
+### Start the server
 ```
 py manage.py runserver
 ```
@@ -56,11 +57,12 @@ python mage.py runserver <port number>
 
 # Author
 You Can get in contact with me on any of the social media handles below
+
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-cc1bbd.svg)][mail]
 
 **Name**: Mireku Prince
 
-[![twitter icon][http://i.imgur.com/tXSoThF.png]][twitter]
+![twitter icon](https://github.com/DevFreak-ui/gitsocial/blob/master/assets/icons%20with%20padding/twitter.png)[twitter]
 
 
 # Contribution Invitation
