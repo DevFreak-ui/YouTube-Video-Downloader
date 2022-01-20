@@ -1,7 +1,11 @@
 # YouTebe video downloader
-Divi is a web app built on `django` to convert and download youtube videos
-With Divi, a user can download any youtube video in mp3 and mp4 formats for free
+[![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)][github]
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)][license]
 
+
+Divi is a web app built on `django` to convert and download youtube videos.  
+With Divi, a user can download any youtube video in mp3 and mp4 formats for free
+  
 
 # Installation
 Clone YouTube Video Downloader from github
@@ -12,22 +16,23 @@ git clone https://github.com/DevFreak-ui/YouTube-Video-Downloader.git
 This project requires `python`, `Django`, `Pytube` and many other dependancies
 in order to function
 
-A  `requirement.txt` file is located in the parent directory. You can use this 
+A  `requirements.txt` file is located in the parent directory. You can use this 
 file to to install all required  
 dependancies just by running the following command.
-
-#### how to install project requirements ***
+  
+#### how to install project requirements
+*** 
 1. Navigate to the parent directory or the root folder of your project
 2. Copy, paste and run the commad below
 
 ```python
 pip install -r requirements.txt
 ```
-This line of code goes to the root folder, grab a file named `requirement.txt`
+This line of code goes to the root folder, grab a file named `requirements.txt`
 and install all listed dependancies in the file.
 
 #### Start the server
-```
+```django
 py manage.py runserver
 ```
 or
@@ -63,12 +68,14 @@ You Can get in contact with me on any of the social media handles below
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-cc1bbd.svg)][mail]
 
-**Author Name**: Mireku Prince
+**Author**: Mireku Prince
 
 [![](http://i.imgur.com/P3YfQoD.png)][facebook]
 [![](http://i.imgur.com/tXSoThF.png)][twitter]
 [![](http://i.imgur.com/1AGmwO3.png)][dribbble]
-[![](http://i.imgur.com/tXSoThF.png)][github]
+[![](http://i.imgur.com/tXSoThF.png)][github]  
+
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)][github]
 
 # Contribution Invitation
 
@@ -82,3 +89,4 @@ You Can get in contact with me on any of the social media handles below
 [facebook]: https://web.facebook.com/devfreak/
 [github]: https://github.com/DevFreak-ui
 [dribbble]: https://dribbble.com/DevFreak1
+[license]: https://github.com/DevFreak-ui/YouTube-Video-Downloader/blob/main/LICENSE
