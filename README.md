@@ -23,16 +23,16 @@ dependancies just by running the following command.
 #### how to install project requirements
 *** 
 1. Navigate to the parent directory or the root folder of your project
-2. Copy, paste and run the commad below
+2. Copy, paste and run the command below
 
 ```python
 pip install -r requirements.txt
 ```
 This line of code goes to the root folder, grab a file named `requirements.txt`
-and install all listed dependancies in the file.
+and install all listed dependancies in the file.  
 
-#### Start the server
-```django
+#### Starting the server
+```python
 py manage.py runserver
 ```
 or
@@ -59,10 +59,6 @@ python mage.py runserver <port number>
     + [Pytube][pytube]
 
 
-
-# Screenshots
-
-
 # Author
 You Can get in contact with me on any of the social media handles below
 
@@ -73,12 +69,22 @@ You Can get in contact with me on any of the social media handles below
 [![](http://i.imgur.com/P3YfQoD.png)][facebook]
 [![](http://i.imgur.com/tXSoThF.png)][twitter]
 [![](http://i.imgur.com/1AGmwO3.png)][dribbble]
-[![](http://i.imgur.com/tXSoThF.png)][github]  
+[![](http://i.imgur.com/0o48UoR.png)][github]  
 
-[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)][github]
+Don't forget to leave a ⭐ if you like the repo !
+
+
 
 # Contribution Invitation
+[![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)][github]
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)][github]  
 
+All forms of contributions are welcome  
+
+
+
+
+# Screenshots
 
 
 
