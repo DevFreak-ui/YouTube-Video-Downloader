@@ -1,4 +1,4 @@
-# YouTebe video downloader
+# YouTube video downloader
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)][github]
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)][license]  
 
@@ -9,7 +9,8 @@
 
 
 Bumble bee is a web app built on `django` to convert and download youtube videos.  
-With bumble bee, a user can download any youtube video in mp3 and mp4 formats for free
+With bumble bee, a user can download any youtube video in mp3 and mp4 formats for free  
+The web app also has the feature of both `light mode` and `dark mode`
   
 
 # Installation
@@ -87,6 +88,14 @@ Don't forget to leave a ⭐ if you like the repo !
 All forms of contributions are welcome  
 
 
+
+# Screenshots
+<p align="center">
+  <img src="https://github.com/DevFreak-ui/YouTube-Video-Downloader/blob/main/static/images/light.png" width="80%">
+</p>
+<p align="center">
+  <img src="https://github.com/DevFreak-ui/YouTube-Video-Downloader/blob/main/static/images/dark.png" width="80%">
+</p>
 
 
 [pytube]: https://pytube.io/en/latest/user/quickstart.html
