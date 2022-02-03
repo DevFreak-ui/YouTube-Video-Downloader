@@ -91,10 +91,10 @@ All forms of contributions are welcome
 
 # Screenshots
 <p align="center">
-  <img src="https://github.com/DevFreak-ui/YouTube-Video-Downloader/blob/main/static/images/light.png" width="80%">
+  <img src="https://github.com/DevFreak-ui/YouTube-Video-Downloader/blob/main/static/images/light.png" width="100%">
 </p>
 <p align="center">
-  <img src="https://github.com/DevFreak-ui/YouTube-Video-Downloader/blob/main/static/images/dark.png" width="80%">
+  <img src="https://github.com/DevFreak-ui/YouTube-Video-Downloader/blob/main/static/images/dark.png" width="100%">
 </p>
 
 
